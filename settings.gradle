@@ -1,0 +1,4 @@
+rootProject.name = 'passwd'
+include 'e2e-tests'
+include 'e2e-tests'
+
